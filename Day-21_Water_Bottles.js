@@ -13,4 +13,4 @@ var numWaterBottles = function(numBottles, numExchange) {
 // Example usage:
 console.log(numWaterBottles(9, 3)); // 13
 console.log(numWaterBottles(15, 4)); // 19
-console.log(numWaterBottles(5, 5)); // 6
+console.log(numWaterBottles(200, 2)); // 6
